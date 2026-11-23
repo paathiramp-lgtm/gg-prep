@@ -1,0 +1,234 @@
+[
+  {
+    "id": "GG001",
+    "mode": "mcq",
+    "topic": "Structural Geology",
+    "subtopic": "Strike and dip",
+    "difficulty": "Easy",
+    "marks": 1,
+    "question": "The strike of a planar geological surface is the direction of the horizontal line contained in that surface. Which statement is correct?",
+    "options": [
+      "It is always perpendicular to the dip direction",
+      "It is parallel to the line of maximum inclination",
+      "It is the trend of the steepest line on the plane",
+      "It is measured in the vertical plane"
+    ],
+    "answer": [
+      0
+    ],
+    "explanation": "Strike is the horizontal line on a plane. The dip direction is perpendicular to strike; maximum inclination is the dip direction."
+  },
+  {
+    "id": "GG002",
+    "mode": "mcq",
+    "topic": "Mineralogy",
+    "subtopic": "Crystal systems",
+    "difficulty": "Easy",
+    "marks": 1,
+    "question": "Which crystal system has three unequal crystallographic axes, all intersecting at 90°?",
+    "options": [
+      "Cubic",
+      "Tetragonal",
+      "Orthorhombic",
+      "Monoclinic"
+    ],
+    "answer": [
+      2
+    ],
+    "explanation": "Orthorhombic crystals have a ≠ b ≠ c and α = β = γ = 90°. Cubic has equal axes; tetragonal has two equal axes; monoclinic has one non-right angle."
+  },
+  {
+    "id": "GG003",
+    "mode": "mcq",
+    "topic": "Geomorphology",
+    "subtopic": "Drainage patterns",
+    "difficulty": "Easy",
+    "marks": 1,
+    "question": "A dendritic drainage pattern most commonly develops where the underlying rocks are:",
+    "options": [
+      "Strongly folded into parallel ridges",
+      "Relatively homogeneous with little structural control",
+      "Arranged in concentric rings",
+      "Jointed in a rectangular pattern"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Dendritic drainage resembles tree branches and commonly forms on relatively uniform substrates without strong structural guidance. Folded strata often produce trellis drainage."
+  },
+  {
+    "id": "GG004",
+    "mode": "mcq",
+    "topic": "Palaeontology",
+    "subtopic": "Brachiopoda and Mollusca",
+    "difficulty": "Medium",
+    "marks": 2,
+    "question": "Which feature most reliably distinguishes a typical brachiopod shell from a bivalve mollusc shell?",
+    "options": [
+      "The shell is always composed of calcite",
+      "The two valves are generally dorsal and ventral",
+      "The animal has a muscular foot",
+      "The shell is always bilaterally symmetrical across the commissure"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Brachiopod valves are dorsal and ventral, whereas bivalve mollusc valves are left and right. Composition and symmetry can vary, and bivalves possess a muscular foot."
+  },
+  {
+    "id": "GG005",
+    "mode": "mcq",
+    "topic": "Stratigraphy",
+    "subtopic": "Unconformities",
+    "difficulty": "Easy",
+    "marks": 1,
+    "question": "An angular unconformity records:",
+    "options": [
+      "Continuous deposition without erosion",
+      "Older tilted or folded strata overlain by younger strata at a different angle",
+      "A fault separating rocks of different ages",
+      "A metamorphic boundary"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "An angular unconformity forms after older strata are deformed and eroded, followed by deposition of younger strata at a different orientation."
+  },
+  {
+    "id": "GG006",
+    "mode": "mcq",
+    "topic": "Crystallography",
+    "subtopic": "Miller indices",
+    "difficulty": "Medium",
+    "marks": 2,
+    "question": "A crystal plane intercepts the crystallographic axes at a, 2b and 3c. What are its Miller indices?",
+    "options": [
+      "(1 2 3)",
+      "(6 3 2)",
+      "(3 2 1)",
+      "(1/1 1/2 1/3)"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Express intercepts in lattice units: (1,2,3). Take reciprocals (1,1/2,1/3), then multiply by 6 to obtain the smallest integers (6 3 2)."
+  },
+  {
+    "id": "GG007",
+    "mode": "msq",
+    "topic": "Mineralogy",
+    "subtopic": "Polymorphism and isomorphism",
+    "difficulty": "Medium",
+    "marks": 2,
+    "question": "Which statements about polymorphism are correct?",
+    "options": [
+      "The same chemical composition can crystallise in different structures",
+      "Diamond and graphite are polymorphs of carbon",
+      "Polymorphs must have identical physical properties",
+      "Calcite and aragonite are polymorphs of CaCO₃"
+    ],
+    "answer": [
+      0,
+      1,
+      3
+    ],
+    "explanation": "Polymorphs share chemical composition but differ in crystal structure, so their physical properties may differ. Diamond/graphite and calcite/aragonite are standard examples."
+  },
+  {
+    "id": "GG008",
+    "mode": "msq",
+    "topic": "Stratigraphy",
+    "subtopic": "Principles of stratigraphy",
+    "difficulty": "Medium",
+    "marks": 2,
+    "question": "Which are valid applications or statements of Steno's stratigraphic principles?",
+    "options": [
+      "Superposition applies to an undisturbed sedimentary sequence",
+      "Original horizontality states that sediments are generally deposited in near-horizontal layers",
+      "Cross-cutting relationships can establish relative age",
+      "Faunal succession states that fossils occur randomly through geological time"
+    ],
+    "answer": [
+      0,
+      1,
+      2
+    ],
+    "explanation": "Superposition, original horizontality and cross-cutting relationships are key relative-dating principles. Faunal succession describes an ordered, recognisable succession of fossil assemblages, not random occurrence."
+  },
+  {
+    "id": "GG009",
+    "mode": "nat",
+    "topic": "Mathematical Geology",
+    "subtopic": "Radioactive decay",
+    "difficulty": "Easy",
+    "marks": 1,
+    "question": "For radioactive decay N = N₀e⁻λt, which expression gives the half-life?",
+    "options": [
+      "t½ = λ/ln 2",
+      "t½ = ln 2/λ",
+      "t½ = 1/λ²",
+      "t½ = e/λ"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "At half-life, N/N₀ = 1/2. Substituting into the decay equation gives 1/2 = e⁻λt, hence t½ = ln 2/λ. The other options do not follow from the decay equation."
+  },
+  {
+    "id": "GG010",
+    "mode": "nat",
+    "topic": "Mathematical Geology",
+    "subtopic": "Darcy's law",
+    "difficulty": "Medium",
+    "marks": 2,
+    "question": "In Darcy's law Q = K i A, what does the hydraulic gradient i represent?",
+    "options": [
+      "Discharge divided by area",
+      "Change in hydraulic head per unit distance along the flow path",
+      "Intrinsic permeability multiplied by porosity",
+      "Total head multiplied by aquifer thickness"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Hydraulic gradient is the head loss per unit length along the flow path (often Δh/L). Q is discharge, K hydraulic conductivity and A cross-sectional area."
+  },
+  {
+    "id": "GG011",
+    "mode": "mcq",
+    "topic": "Economic Geology",
+    "subtopic": "Ore grade",
+    "difficulty": "Medium",
+    "marks": 2,
+    "question": "Which statement best describes ore grade?",
+    "options": [
+      "The total volume of an orebody",
+      "The concentration of a valuable constituent in an ore",
+      "The depth below the water table",
+      "The age of mineralisation"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "Grade expresses the concentration of the valuable commodity in the ore, commonly as wt%, g/t or ppm depending on the commodity."
+  },
+  {
+    "id": "GG012",
+    "mode": "mcq",
+    "topic": "Geophysics",
+    "subtopic": "Gravity",
+    "difficulty": "Medium",
+    "marks": 2,
+    "question": "The free-air correction in gravity surveys primarily accounts for the:",
+    "options": [
+      "Attraction of the intervening rock slab",
+      "Change in gravity with elevation above the reference datum",
+      "Density contrast between crust and mantle",
+      "Effect of latitude on Earth's rotation"
+    ],
+    "answer": [
+      1
+    ],
+    "explanation": "The free-air correction accounts for the decrease in gravity with elevation. The Bouguer correction addresses the gravitational attraction of the rock slab between the station and datum."
+  }
+]
